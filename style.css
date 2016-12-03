@@ -1,0 +1,7 @@
+/* this is our Css file */
+
+.dashed{border: 1px dashed black;}
+.empty{height: 100px;}
+.center{text-align: center;}
+
+#blog_description{margin-top: 20px;}
