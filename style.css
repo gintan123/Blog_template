@@ -5,3 +5,9 @@
 .center{text-align: center;}
 
 #blog_description{margin-top: 20px;}
+
+.barrier{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
